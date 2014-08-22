@@ -9,7 +9,10 @@
   "keywords": [
     "angular",
     "uploadcare",
-    "directive"
+    "directive",
+    "upload",
+    "file",
+    "image"
   ],
   "license": "MIT",
   "homepage": "https://github.com/ericthelast/angular-uploadcare",
