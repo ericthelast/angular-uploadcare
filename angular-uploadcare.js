@@ -6,7 +6,7 @@
  * @description Provides a directive for the Uploadcare widget.
  * # UploadCare
  */
-angular.module('ng-uploadcare')
+angular.module('ng-uploadcare', [])
   .directive('uploadcare-widget', function () {
     return {
       restrict: 'E',
