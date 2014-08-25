@@ -15,7 +15,7 @@
     "image"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/ericthelast/angular-uploadcare",
+  "homepage": "https://github.com/uploadcare/angular-uploadcare",
   "ignore": [
     "**/.*",
     "node_modules",
